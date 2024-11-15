@@ -1,3 +1,5 @@
+# How to get project fro github and install in your device
+
 # School-Management-System-Project-in-Laravel-with-Source-Code
 #cd project
 
