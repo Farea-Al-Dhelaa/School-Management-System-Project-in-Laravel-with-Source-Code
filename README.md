@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # How to get project fro github and install in your device
 
 # School-Management-System-Project-in-Laravel-with-Source-Code
@@ -15,3 +16,8 @@
 
 #Run php artisan migrate
 
+=======
+# Feel Contact with me on [Telegram](https://farea-ycc.github.io/)
+# copy_of_Apple_calclator
+# This Is Clean Code for peruses learning
+>>>>>>> 76ae06c (copy of apple calclator.)
